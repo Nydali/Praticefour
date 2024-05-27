@@ -1,0 +1,13 @@
+.info-card {
+    background-color: rgba(232, 114, 114, 0.8);
+    padding: 15px;
+    border-radius: 10px;
+    display: inline-block; /* Display the blocks inline */
+    margin-right: 20px; /* Add margin between blocks */
+  }
+  
+  .name {
+    color: black; /* Solid black text */
+    font-weight: bold; /* Make the text bold */
+  }
+  
